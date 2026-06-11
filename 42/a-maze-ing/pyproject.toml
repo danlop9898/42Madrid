@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "maze_generator-ig-xx-42mad"
+version = "1.0.0"
+description = "Procedural maze generator with 42 pattern, BFS solver and terminal display."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "igramos-", email = "igramos-@student.42madrid.es" }, 
+    { name = "dalopez3", email = "dalopez3@student.42madrid.es" },
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["maze_generator*"]
