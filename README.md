@@ -1,1 +1,1 @@
-En la carpeta 42 están los proyectos que realizo en 42Madrid - Telefónica.
+En la carpeta 42 están los proyectos que realizo en 42Madrid - Telefónica. Los proyectos tienen su PDF con el enunciado del proyecto y dentro de cada carpeta un README con un resumen sobre el proyecto y como se ha hecho.
